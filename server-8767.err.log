@@ -1,0 +1,15 @@
+127.0.0.1 - - [29/Jun/2026 23:02:13] "GET /portfolio/index.html HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jun/2026 23:02:37] "GET /portfolio/index.html HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jun/2026 23:02:37] "GET /portfolio/styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jun/2026 23:02:37] "GET /portfolio/script.js HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jun/2026 23:02:37] "GET /assets/customer/img/hero/hero-1.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jun/2026 23:02:37] code 404, message File not found
+127.0.0.1 - - [29/Jun/2026 23:02:37] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [29/Jun/2026 23:02:59] "GET /portfolio/index.html HTTP/1.1" 304 -
+127.0.0.1 - - [29/Jun/2026 23:03:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jun/2026 23:03:05] code 404, message File not found
+127.0.0.1 - - [29/Jun/2026 23:03:05] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [29/Jun/2026 23:03:16] "GET /portfolio/ HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jun/2026 23:03:16] "GET /portfolio/styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jun/2026 23:03:16] "GET /assets/customer/img/hero/hero-1.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [29/Jun/2026 23:03:16] "GET /portfolio/script.js HTTP/1.1" 200 -
